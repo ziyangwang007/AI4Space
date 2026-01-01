@@ -10,14 +10,15 @@
 
 ---
 
-This repository aims to systematically organize research on **AI4Space**.
+This repository aims to systematically organize research on **[AI4Space](https://arxiv.org/abs/2512.22399)**.
 
 We intend to **regularly update** this repository with the latest papers, systems, and surveys.  
 We strongly encourage researchers to **submit pull requests**, open issues, or contact us to add new work.
 
 **Author:**  
-[Ziyang Wang](https://www.zywang.site) 
+[Ziyang Wang](https://www.zywang.site)  
 📧 Email: ziyangwang@ieee.org
+
 
 ---
 
