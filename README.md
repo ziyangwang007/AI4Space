@@ -10,25 +10,22 @@
 
 ---
 
-**Author:**  
-[Ziyang Wang](https://www.zywang.site) 
-📧 Email: ziyangwang@ieee.org
----
-
-<img src="framework.png" width="100%" />
-
----
-
-
-A **curated list of awesome papers on Space AI**, accompanying the survey:
-
-> **Space AI: Leveraging Artificial Intelligence for Space to Improve Life on Earth**  
-> *arXiv:2512.22399*
-
 This repository aims to systematically organize research on **AI4Space**.
 
 We intend to **regularly update** this repository with the latest papers, systems, and surveys.  
 We strongly encourage researchers to **submit pull requests**, open issues, or contact us to add new work.
+
+**Author:**  
+[Ziyang Wang](https://www.zywang.site) 
+📧 Email: ziyangwang@ieee.org
+
+---
+
+<img src="framework.png" width="100%" />
+
+
+
+
 
 ---
 
