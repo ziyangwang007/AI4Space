@@ -41,6 +41,13 @@ If you find this repository or the survey useful, please cite:
   journal = {arXiv preprint arXiv:2512.22399},
   year    = {2025}
 }
+
+@article{wang2026agent,
+  title={Agent Mars: Multi-Agent Simulation for Multi-Planetary Life Exploration and Settlement},
+  author={Wang, Ziyang},
+  journal={arXiv preprint arXiv:2602.13291},
+  year={2026}
+}
 ```
 ---
 ## Overview
@@ -62,7 +69,7 @@ If you find this repository or the survey useful, please cite:
 ---
 
 ## Survey & Vision Papers
-
+s
 **XXXX.** [XXXX].  
 *XXXX.*  
 [[PDF]]
