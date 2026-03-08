@@ -61,11 +61,6 @@ If you find this repository or the survey useful, please cite:
 - [Datasets & Benchmarks](#datasets--benchmarks)
 
 
-## News
-
-- **[XXXX-XX-XX]** 🚀 XXXX.  
-- **[XXXX-XX-XX]** 📄 XXXX.
-
 ---
 
 ## Survey & Vision Papers
